@@ -15,6 +15,12 @@ This repository contains essential Linux commands for beginner DevOps engineers.
 - Disk space analysis
 - System monitoring
 
+## Command Output
+![Protected](assets/dev3.png)
+![SystemInfo](assets/dev2.png)
+![Hello](assets/dev1.png)
+
+
 ## ✅ How to Use
 
 Clone the repo:
