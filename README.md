@@ -16,9 +16,9 @@ This repository contains essential Linux commands for beginner DevOps engineers.
 - System monitoring
 
 ## Command Output
-![Protected](assets/dev3.png)
-![SystemInfo](assets/dev2.png)
-![Hello](assets/dev1.png)
+![Protected](Class 1/assets/dev3.png)
+![SystemInfo](Class 1/assets/dev2.png)
+![Hello](Class 1/assets/dev1.png)
 
 
 ## ✅ How to Use
